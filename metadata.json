@@ -1,0 +1,8 @@
+{
+  "name": "유사나 프로모션 웹",
+  "description": "유사나 해외 여행 및 비즈니스 인센티브 도전을 통합 관리하고 실시간 진척도와 세부 실적을 입력하는 비즈니스 타겟 트래커 앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
